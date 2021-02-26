@@ -1,0 +1,10 @@
+<DOCTYPE html>
+ <html>
+  <head>
+   <link rel="stylesheet" href="../css/style2">
+   </head>
+   <body>
+   <h1>what? you expected something to be here?......uhhhh....there</h1>
+   
+   <img src="pic_trulli.jpg" alt="Italian Trulli">
+   <a href="url">link text</a>
