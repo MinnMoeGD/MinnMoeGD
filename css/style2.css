@@ -1,0 +1,11 @@
+body {
+  background-color:rgb(203, 106, 247);
+}
+h1 { font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: rgb(61, 128, 221);
+}
+h3 {
+  font-family: arial;
+  color: rgb(255, 0,0);
+  background-color: #349508;
+}
