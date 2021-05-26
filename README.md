@@ -1,1 +1,1 @@
-Website link: https://minnmoegd.github.io/MinnMoeGD/pages/mainPageThingy.html
+Website link: https://minnmoegd.github.io/MinnMoeGD/html/mainPageThingy.html
